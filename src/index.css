@@ -1,0 +1,127 @@
+.photograph{
+
+    margin-left: 800px;
+    background-color:rgba(8, 8, 8, 0.178); 
+    width: 400px;
+    height: 400px;
+padding: 0px 0px;
+margin-top: 10px;
+}
+body{
+    background-color:#23252C;
+
+}
+.yooo{
+   color:aqua;
+   margin-left: 800px;
+   margin-top:0px;
+   background-color:#1A1B21;
+width:400px;
+padding: 30px 10px;
+height: 200px;
+}
+.name{
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 110px;
+   size :107px ;
+   margin-top: 0px;
+  margin-bottom: 0px;
+}
+.job{
+    color: hsla(25, 79%, 78%, 1);
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.root{
+    display: flex;
+    height: 30px;
+}
+.email{
+    margin-left: 100px;
+    width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:rgb(181, 229, 238);
+height: 40px;
+font-size: large;
+}
+.third{
+    background-color: #1A1B21;
+ width:400px;
+ margin-left:800px;
+ margin-top:0px;
+margin-bottom:px;
+padding:0px 0px;
+}
+.about{
+    margin-top:0px;
+    color: beige;
+    margin-left:20px;
+    Font-family: Inter;
+Font-style: Regular;
+Font-size: 20px;
+Line-height: 15px;
+Line-height: 150%;
+}
+.info{
+    margin-left:20px;
+    color: beige;
+    Font-family: Inter;
+Font-style: Regular;
+Font-size: 15px;
+Line-height: 15px;
+Line-height: 150%;
+}
+.Four{
+    background-color:  #161619;
+ width:400px;
+ margin-left:800px;
+ margin-top:0px;
+margin-bottom:px;
+height: 85px;
+padding:10px 20px;
+justify-content: center;
+}
+.interest{
+    margin-top:0px;
+    color: beige;
+    margin-left:20px;
+    Font-family: Inter;
+Font-size: 20px;
+Line-height: 150%;
+padding:0px;
+}
+.info-2{
+    margin-left:20px;
+    color: beige;
+    Font-family: Inter;
+Font-style: Regular;
+Font-size: 15px;
+Line-height: 15px;
+Line-height: 150%;
+
+}
+
+
+* {
+    box-sizing: border-box;
+    line-height: 1.3;
+    margin: 0;
+    padding: 0;
+}
+.icon1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.icon2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.icon3{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.icon4{
+    margin-left: 10px;
+}
