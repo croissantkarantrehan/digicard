@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digicard/static/css/main.3280a72f.css",
+    "main.js": "/digicard/static/js/main.54a5e6d1.js",
+    "static/media/male2.jpeg": "/digicard/static/media/male2.bb6871ef7ff7ea01c9cf.jpeg",
+    "index.html": "/digicard/index.html",
+    "main.3280a72f.css.map": "/digicard/static/css/main.3280a72f.css.map",
+    "main.54a5e6d1.js.map": "/digicard/static/js/main.54a5e6d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3280a72f.css",
+    "static/js/main.54a5e6d1.js"
+  ]
+}
